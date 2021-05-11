@@ -32,6 +32,7 @@ If you have any questions or concerns, you are welcome to contact myself at my e
 - If there is repeated negative behavior that is detrimental to the experience to other players, then that person will be excluded from the community and is no longer welcome. This will be reviewed on a case-by-case basis as every action and interaction is different and one size fits all policy typically never fits.
 
 <h3>If you are going to take anything away from this document, let it be these things:</h3>
+
 - Be kind
 - Ask questions 
 - Have fun!
