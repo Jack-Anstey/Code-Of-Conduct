@@ -12,7 +12,7 @@ Welcome! We are super excited to be playing with you and seeing what your creati
 	- Creativity is the name of the game. Have an outlandish idea that might be cool? Say it! You may not follow through with it, but it might be the solution your group was looking for the whole time.
 - Check out these resources!
 	- This is especially helpful for first time players. The <a href="https://www.reddit.com/r/dndnext/">DnD reddit</a> is a great source for news and general questions about how the game works. 
-	- <a href="https://www.dndbeyond.com/">DnD Beyond is a great place to get digital source books and to have a digital character sheet.
+	- <a href="https://www.dndbeyond.com/">DnD Beyond</a> is a great place to get digital source books and to have a digital character sheet.
 	- Players: ask anyone any question in the group Discord. We don't bite, I promise.
 
 <h2>Do Not's</h2>
